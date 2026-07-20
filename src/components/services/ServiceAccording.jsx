@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { ChevronDown, CheckCircle2 } from "lucide-react";
-import servicesData from "../../data/servicesData";
+import servicesData from "../../data/servicesdata";
 
 export default function ServiceAccordion() {
   const [active, setActive] = useState(0);
