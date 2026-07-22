@@ -170,7 +170,7 @@ Email Address
 
 <p className="mt-2 text-gray-600">
 
-faraz@adescaretech.com
+info@adescaretech.com
 
 </p>
 
@@ -206,10 +206,7 @@ Working Hours
 
 <p className="mt-2 text-gray-600">
 
-Monday - Saturday
-<br/>
-
-9 AM - 7 PM
+24 X 7
 
 </p>
 
